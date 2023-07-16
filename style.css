@@ -75,6 +75,7 @@ h1{
   margin-left: 3rem;
   margin-top: 3rem;
   font-size: 1em;
+  transition: 0.1s;
 }
 
 #orange button{
